@@ -22,19 +22,18 @@ double Calc(){
 
 void Program(){
         cout << "Enter the arithmetic expression to be evaluated (e.g. 5 + 6):" << endl;
-        //cout << "test point 1";
-        scanf("%f        %c %f", &var1, &op, &var2);
+        scanf("%f %c %f", &var1, &op, &var2);
         printf("%f", Calc());
-        while (1){
-                cout << endl << "Did you want to enter another expression? (Enter 'y' or 'n'):";
-                //getchar();
-                if( getchar() == 'y'){
-                        Program();
-                }
-                else if( getchar() == 'n'){
-                        break;
-                }
+        getchar();
+        cout << endl << "Did you want to enter another expression? (Enter 'y' or 'n'):";
+        char a = getchar();
+        getchar();
+        if( a == 'y'){
+                Program();
         }
+        else if( a == 'n'){
+        }
+        
 }
 
 int main(){
