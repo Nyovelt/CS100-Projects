@@ -27,7 +27,6 @@ void Program(){
         getchar();
         cout << endl << "Did you want to enter another expression? (Enter 'y' or 'n'):";
         char a = getchar();
-        getchar();
         if( a == 'y'){
                 Program();
         }
