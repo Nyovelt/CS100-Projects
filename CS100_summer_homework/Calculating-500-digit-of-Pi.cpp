@@ -37,10 +37,9 @@ void Program(int m)
         for (int j = 1; j <= nines; j++)
         {
             printf("0");
-
         }
-            predigit = 0;
-            nines = 0;
+        predigit = 0;
+        nines = 0;
     }
     else
     {
