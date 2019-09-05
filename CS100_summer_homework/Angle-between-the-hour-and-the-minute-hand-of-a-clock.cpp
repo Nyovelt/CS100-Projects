@@ -1,14 +1,16 @@
 #include "stdio.h"
-#include "iostream"
+//#include "iostream"
 #include "math.h"
-using namespace std;
+//using namespace std;
 char op;
 float hour, minute;
 float minuteHand, hourHand;
 
 int main()
 {
-    cout << "What time is it?";
+    
+    //cout << "What time is it?";
+    printf("What time is it? ");
     scanf("%f %c %f", &hour, &op, &minute);
 
     /*if (op == ':')
@@ -31,6 +33,7 @@ int main()
     }
     //cout << degrees << endl;
 
-    printf("The angle between the hands is %.1f degrees\n", degrees);
+    printf("The angle between the hands is %.1f degrees.\n", degrees);
     getchar();
+    
 }
