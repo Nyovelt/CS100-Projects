@@ -1,0 +1,2 @@
+/usr/sbin/ar qc libimagefiltering.a  CMakeFiles/imagefiltering.dir/image_io.cpp.o CMakeFiles/imagefiltering.dir/FilteredImage.cpp.o CMakeFiles/imagefiltering.dir/ThreadedFilteredImage.cpp.o
+/usr/sbin/ranlib libimagefiltering.a

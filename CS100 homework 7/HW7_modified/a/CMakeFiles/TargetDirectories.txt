@@ -1,0 +1,10 @@
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/src/CMakeFiles/imagefiltering.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/test/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/test/CMakeFiles/runfiltersTh.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/test/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/test/CMakeFiles/testIO.dir
+/mnt/c/Users/Nyove/Downloads/HW7/HW7/a/test/CMakeFiles/runfilters.dir

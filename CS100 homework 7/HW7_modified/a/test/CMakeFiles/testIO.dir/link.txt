@@ -1,0 +1,1 @@
+/usr/sbin/c++  -std=c++11  -rdynamic CMakeFiles/testIO.dir/test1.cpp.o  -o testIO ../src/libimagefiltering.a 
